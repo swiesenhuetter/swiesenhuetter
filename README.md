@@ -1,4 +1,4 @@
-### Hi there, I am Stephan, a software edeveloper 
+### Hi there, I am Stephan, a software developer 
 
 🌱 I’m currently learning more Python
 
