@@ -7,7 +7,7 @@ that my mother had borrowed for a few days from her office in the early 1980s.
 
 ![TI](https://upload.wikimedia.org/wikipedia/commons/0/03/TI-59.jpg)          
 
-Later we had some 8-bit computers in School. They were based on the [U880](https://en.wikipedia.org/wiki/U880) , an East-German Z80 clone.
+Later, we had some 8-bit computers in school. They were based on the [U880](https://en.wikipedia.org/wiki/U880) , an East-German Z80 clone.
 
 ![Robotron Z9001](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Robotron-KC87-1.jpg/120px-Robotron-KC87-1.jpg)
 
