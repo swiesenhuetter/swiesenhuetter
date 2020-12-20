@@ -4,10 +4,14 @@
 
 I wrote my first program on a [TI-59 calculator](https://en.wikipedia.org/wiki/TI-59_/_TI-58)
 that my mother had borrowed for a few days from her office in the early 1980s.
+
 ![TI](https://upload.wikimedia.org/wikipedia/commons/0/03/TI-59.jpg)          
-Later we had some 8-bit computers in School. They were based on the U880, an East-German Z80 clone.
+
+Later we had some 8-bit computers in School. They were based on the [U880](https://en.wikipedia.org/wiki/U880) , an East-German Z80 clone.
+
 ![Robotron Z9001](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Robotron-KC87-1.jpg/120px-Robotron-KC87-1.jpg)
-In the mid-80s, an ![Atari 800XL](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Atari-800XL.jpg/280px-Atari-800XL.jpg) came to our home.
+
+In the mid-80s, an Atari 800 XL ![Atari 800XL](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Atari-800XL.jpg/280px-Atari-800XL.jpg) came to our home.
 
 
 
