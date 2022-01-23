@@ -1,6 +1,6 @@
 ### Hi there, I am Stephan, a software developer 
 
-🌱 I’m currently learning more Python, more C++ and some more languages. 
+🌱 
 
 I wrote my first program on a [TI-59 calculator](https://en.wikipedia.org/wiki/TI-59_/_TI-58)
 that my mother had borrowed for a few days from her office in the early 1980s.
